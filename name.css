@@ -1,0 +1,14 @@
+body{
+    overflow: hidden;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 0px 3rem;
+}
+.txt-type >.txt {
+    border-right: 0.2rem solid #777;
+}
