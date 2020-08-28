@@ -32,3 +32,16 @@ body{
 .navbar-dark{
     background-color: #512DA8;
 }
+ .cards{
+        margin: 0 auto; 
+        float: none;
+        margin-bottom: 10px;    
+    }
+.element{
+        margin: 0 auto;
+    }
+.elemt{
+    margin-left:70%;
+    margin-top: 12%;
+    width: 35%;
+}
